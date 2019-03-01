@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.homewell.swagger2.swagger2.DemoApplication",
+            "projectName": "swagger2"
+        }
+    ]
+}
